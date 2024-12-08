@@ -14,7 +14,7 @@ export default function Header() {
           </div>
 
           {/* Category Links */}
-          <nav className="mt-4">
+          <nav className="mt-4 ">
             <ul className="flex justify-center space-x-8 text-sm font-medium">
               <li>
                 <Link
